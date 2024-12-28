@@ -1,2 +1,10 @@
-# Mnikube-on-Ubuntu
-Install Minikube on Ubuntu
+### Install Minikube on Ubuntu
+```
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+```
+```
+sudo install minikube-linux-amd64 /usr/local/bin/minikube
+```
+```
+minikube version
+```
